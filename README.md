@@ -137,7 +137,7 @@
 ## 大四上
 
 1. [材料力学性能/行为](https://pan.baidu.com/s/162BvhBOICtGL1ixgom1XBw)  提取码：sctk
-2. [金属材料](https://pan.baidu.com/s/1-pA3x-Tjs66i-HqCZ8TzeQ)  提取码：b7xx
+2. [金属材料学](https://pan.baidu.com/s/1-pA3x-Tjs66i-HqCZ8TzeQ)  提取码：b7xx
 
 
 
