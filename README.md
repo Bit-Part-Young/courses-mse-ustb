@@ -82,3 +82,61 @@
 2. [金属材料](https://pan.baidu.com/s/1-pA3x-Tjs66i-HqCZ8TzeQ)  提取码：b7xx
 
 
+
+
+---
+---
+
+
+
+
+# 其他专业相关课程资料
+
+
+- [军事理论](https://pan.baidu.com/s/1h3rwRivp4VunoyhOKpJhOA) 提取码：tkrx
+- [固体物理学](https://pan.baidu.com/s/1OrUvkgf1rfJEG50mU80vZg) 提取码：yw5u
+- [量子力学](https://pan.baidu.com/s/1XQxFn-cVK-EoQRKS3X_g8Q) 提取码：e6o7
+- [工程测量](https://pan.baidu.com/s/1LFEckzYBS8yDbDR4aUH6uA) 提取码：8fnb
+- [房屋建筑学](https://pan.baidu.com/s/1ZhL5Q2caitP1oiXCsA9bhg) 提取码：tz79
+- [结构力学](https://pan.baidu.com/s/1YUegr4BPRAp91MJp330HNg) 提取码：1muk
+- [岩石力学](https://pan.baidu.com/s/1dDsFIreDgPAFALdMDqRtUA) 提取码：4dy1
+- [土力学](https://pan.baidu.com/s/1Tc5i0_LklklAuLGmlGHw3g) 提取码：recv
+- [高等代数](https://pan.baidu.com/s/1wgAkhyXSa9kEUMiHR4AOkQ) 提取码：bhry
+- [运筹学](https://pan.baidu.com/s/1fP9BCjDlYc3B6P-Sm11RNg) 提取码：tm8x
+- [复变函数](https://pan.baidu.com/s/1iJxtA0oB_vedYTEA-qAE4g) 提取码：lkyd
+- [近世代数](https://pan.baidu.com/s/18A9E5NL-r9e_jHtahpkBDA) 提取码：1orq
+- [管理学原理](https://pan.baidu.com/s/13XQTxVKX18FIx54gr95vvQ) 提取码：etpm
+- [财务管理](https://pan.baidu.com/s/1TAU8a3gdG8aWWP5Ac_FimA) 提取码：dr0g
+- [经济学原理](https://pan.baidu.com/s/1GQCEKzjLbEhwRSuQ8qI5TA) 提取码：24yv
+- [经济法](https://pan.baidu.com/s/1U3HlQ__cCRPrnYV_E-wfaw) 提取码：r5qt
+- [分析化学](https://pan.baidu.com/s/1Loam37sg6Bbm64Ka77R7RQ) 提取码：0okw
+- [有机化学](https://pan.baidu.com/s/1YTQyuoq_XfcxeXeCHGlV3g) 提取码：vpwy
+- [电化学原理](https://pan.baidu.com/s/16s3rPgO7pkGtejFBDrqDTg) 提取码：u820
+- [传热学](https://pan.baidu.com/s/16TDLzUqVkjSRr-fSwDGeDw) 提取码：w6qh
+- [热工基础](https://pan.baidu.com/s/15kI59ivijYvksoWBXGtSTA) 提取码：nhd7
+- [工程流体力学](https://pan.baidu.com/s/1KX8meMJN93M8NS0w8F9-NQ) 提取码：u8oy
+- [操作系统](https://pan.baidu.com/s/1_rFC4lNetMnutL1idKin8g) 提取码：by7j
+- [编译原理](https://pan.baidu.com/s/1qM-gxBN1PfcW249QzPD1Nw) 提取码：lops
+- [数据结构](https://pan.baidu.com/s/1bA_skz_3IjbRZn9Sa5h7CQ) 提取码：2118
+- [离散数学](https://pan.baidu.com/s/1RGoERfnElI4oYX4qYLvk8A) 提取码：m28x
+- [微机原理](https://pan.baidu.com/s/1-y5Kj8AspFI9yMILS1LbFQ) 提取码：js6b
+- [数字电子技术](https://pan.baidu.com/s/19OtgrM2ExXuBi4nFKyBwYA) 提取码：lerg
+- [模拟电子技术](https://pan.baidu.com/s/1MscHnl5hpf8DsTrivTJ0VQ) 提取码：0esr
+- [信号与系统](https://pan.baidu.com/s/1QgIUbTbLwL_delEccrVAXA) 提取码：6u7b
+- [数值计算方法](https://pan.baidu.com/s/1WedT0hniM15rtybe8WmslQ) 提取码：lgft
+- [计算机组成原理](https://pan.baidu.com/s/1zq5fgjasixqK16vCoVF24A) 提取码：e2bq
+- [软件工程](https://pan.baidu.com/s/1NkUPvZN_2gtSp9ohSeoyRw) 提取码：rjwr
+- [计算机网络](https://pan.baidu.com/s/1zwgSAqlsLRvXwnu-7OH1Bw) 提取码：31s8
+- [数据库原理](https://pan.baidu.com/s/1Kq1v3msskcr5TSZkDoUXdQ) 提取码：w28x
+- [VB程序设计](https://pan.baidu.com/s/1VC3TpM6yK16pSssnbwCPSg) 提取码：e6jp
+- [人工智能](https://pan.baidu.com/s/1toKXjvNlhgqMMBAPxsX48Q) 提取码：k5nl
+- [宪法学](https://pan.baidu.com/s/1s-46tA-jo3aH7s8IRcnz1Q) 提取码：tciq
+- [文科概率论](https://pan.baidu.com/s/1AEUi3-2vzdDLthZOZWRAqA) 提取码：iy47
+- [金属学原理](https://pan.baidu.com/s/1BqmNp5NVVaCAOGDix48avA) 提取码：00ol
+- [金属材料及热处理](https://pan.baidu.com/s/1PMud6IDPegPRgPxPR62R5g) 提取码：7aq5
+
+
+
+
+
+
