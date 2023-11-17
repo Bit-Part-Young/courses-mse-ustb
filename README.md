@@ -55,71 +55,71 @@
 
 ## 大一
 
-1) [高数AI](https://pan.baidu.com/s/15TGUO0nMuIHcOS5HUPta6w) 提取码：1pz5
-2) [高数AII](https://pan.baidu.com/s/1XutyYU1h11Kg4Qt_ykTMuw) 提取码：lrg2
-3) [高数快班](https://pan.baidu.com/s/19m3gcj-1FBbyTxdM94BEyQ) 提取码：tvan
-4) [大学物理AI](https://pan.baidu.com/s/1dvs-b1DHdio3G-2IEpdebw) 提取码：f47v
-5) [大学物理AII](https://pan.baidu.com/s/1dvs-b1DHdio3G-2IEpdebw) 提取码：f47v
-6) [普通化学](https://pan.baidu.com/s/1_AbORSZbGqvnBWWqK0qj3A) 提取码：j9q4
-7) [无机化学](https://pan.baidu.com/s/1ZeZHVBzGKdcsuUDVn9eUVA) 提取码：jay4
-8) [大学计算机基础](https://pan.baidu.com/s/1jHMiTsNzRLPWvbsnqVdHfw) 提取码：gaw2
-9) [近代史](https://pan.baidu.com/s/1gzCGd2lrF6n8BmseMuWLfg) 提取码：o1w1
-10) [思修](https://pan.baidu.com/s/1_11uHIm6qlU9JKTesfDX7w) 提取码：bpfr
-11) [C++程序设计](https://pan.baidu.com/s/1lKaq31o7R7FGnM1dZTG2NA) 提取码：wzox
-12) [C语言程序设计](https://pan.baidu.com/s/1vIxjhh3-kL-B9KMfmmovjA) 提取码：qaw2
+1. [高数AI](https://pan.baidu.com/s/15TGUO0nMuIHcOS5HUPta6w) 提取码：1pz5
+2. [高数AII](https://pan.baidu.com/s/1XutyYU1h11Kg4Qt_ykTMuw) 提取码：lrg2
+3. [高数快班](https://pan.baidu.com/s/19m3gcj-1FBbyTxdM94BEyQ) 提取码：tvan
+4. [大学物理AI](https://pan.baidu.com/s/1dvs-b1DHdio3G-2IEpdebw) 提取码：f47v
+5. [大学物理AII](https://pan.baidu.com/s/1dvs-b1DHdio3G-2IEpdebw) 提取码：f47v
+6. [普通化学](https://pan.baidu.com/s/1_AbORSZbGqvnBWWqK0qj3A) 提取码：j9q4
+7. [无机化学](https://pan.baidu.com/s/1ZeZHVBzGKdcsuUDVn9eUVA) 提取码：jay4
+8. [大学计算机基础](https://pan.baidu.com/s/1jHMiTsNzRLPWvbsnqVdHfw) 提取码：gaw2
+9. [近代史](https://pan.baidu.com/s/1gzCGd2lrF6n8BmseMuWLfg) 提取码：o1w1
+10. [思修](https://pan.baidu.com/s/1_11uHIm6qlU9JKTesfDX7w) 提取码：bpfr
+11. [C++程序设计](https://pan.baidu.com/s/1lKaq31o7R7FGnM1dZTG2NA) 提取码：wzox
+12. [C语言程序设计](https://pan.baidu.com/s/1vIxjhh3-kL-B9KMfmmovjA) 提取码：qaw2
 
 ---
 
 ## 大二
 
-1) [线性代数](https://pan.baidu.com/s/14bsamm51jawkDrMfwG5DXQ) 提取码：l0jc
-2) [机械制图](https://pan.baidu.com/s/17nYp1xBTC_Frgi_zd3VScA) 提取码：v7j3
-3) [材料力学](https://pan.baidu.com/s/1cWvqPG_zm8v4CXHc_EzSYQ) 提取码：xm34
-4) [金工实习](https://pan.baidu.com/s/1PXgfbN9q3WbtRO6_fnjsQw) 提取码：tdgy
-5) [概率论](https://pan.baidu.com/s/1_HxZtoFHdmE3qxP2xnWEaA) 提取码：oltd
-6) [大学物理AIII](https://pan.baidu.com/s/1mu1u4nm7QnnS52IkMLOLsA) 提取码：rm7o
-7) [大学物理竞赛](https://pan.baidu.com/s/1grL9toMtfzH2eeMd0jrZZQ) 提取码：i8wz
-8) [数学竞赛](https://pan.baidu.com/s/1l1N2_wzIJJO4bpoErfXDzA) 提取码：pou7
-9) [大学物理实验](https://pan.baidu.com/s/1ITLxzhhUhHAs606R2q0GrA) 提取码：8y00
-10) [统计物理](https://pan.baidu.com/s/1OddM4XQncmp2oHERvE_JVQ) 提取码：nqi5
-11) [数学物理方程](https://pan.baidu.com/s/1P4n_w2L3PGLnROYOkjurnQ) 提取码：2o8n
-12) [物理化学](https://pan.baidu.com/s/1cUhN4qwTx6RAiELqqJMbKw) 提取码：70zn
-13) [电工技术](https://pan.baidu.com/s/1TP_gfpLQ6TMVKVnOepZwkA) 提取码：1hhk
-14) [马原](https://pan.baidu.com/s/1XTPj3eZ16dddFvBmZVSDlA) 提取码：2vhq
-15) [材料科学基础导论](https://pan.baidu.com/s/1InHPNm0CENvl_SfHQmgDHQ) 提取码：t7rv
-16) [matlab数学实验](https://pan.baidu.com/s/1Q_H9xFj2vkfFAdQ3JR8SjA) 提取码：n3d8
+1. [线性代数](https://pan.baidu.com/s/14bsamm51jawkDrMfwG5DXQ) 提取码：l0jc
+2. [机械制图](https://pan.baidu.com/s/17nYp1xBTC_Frgi_zd3VScA) 提取码：v7j3
+3. [材料力学](https://pan.baidu.com/s/1cWvqPG_zm8v4CXHc_EzSYQ) 提取码：xm34
+4. [金工实习](https://pan.baidu.com/s/1PXgfbN9q3WbtRO6_fnjsQw) 提取码：tdgy
+5. [概率论](https://pan.baidu.com/s/1_HxZtoFHdmE3qxP2xnWEaA) 提取码：oltd
+6. [大学物理AIII](https://pan.baidu.com/s/1mu1u4nm7QnnS52IkMLOLsA) 提取码：rm7o
+7. [大学物理竞赛](https://pan.baidu.com/s/1grL9toMtfzH2eeMd0jrZZQ) 提取码：i8wz
+8. [数学竞赛](https://pan.baidu.com/s/1l1N2_wzIJJO4bpoErfXDzA) 提取码：pou7
+9. [大学物理实验](https://pan.baidu.com/s/1ITLxzhhUhHAs606R2q0GrA) 提取码：8y00
+10. [统计物理](https://pan.baidu.com/s/1OddM4XQncmp2oHERvE_JVQ) 提取码：nqi5
+11. [数学物理方程](https://pan.baidu.com/s/1P4n_w2L3PGLnROYOkjurnQ) 提取码：2o8n
+12. [物理化学](https://pan.baidu.com/s/1cUhN4qwTx6RAiELqqJMbKw) 提取码：70zn
+13. [电工技术](https://pan.baidu.com/s/1TP_gfpLQ6TMVKVnOepZwkA) 提取码：1hhk
+14. [马原](https://pan.baidu.com/s/1XTPj3eZ16dddFvBmZVSDlA) 提取码：2vhq
+15. [材料科学基础导论](https://pan.baidu.com/s/1InHPNm0CENvl_SfHQmgDHQ) 提取码：t7rv
+16. [matlab数学实验](https://pan.baidu.com/s/1Q_H9xFj2vkfFAdQ3JR8SjA) 提取码：n3d8
 
 ---
 
 ## 大三
 
-1) [材料科学基础I](https://pan.baidu.com/s/1Sn6a--0zWX6w8Mvr1XJidg) 提取码：mhee
-2) [材料科学基础II](https://pan.baidu.com/s/1WItL7Lw1J2tu31Y0pyvoOA) 提取码：bqv0
-3) [固体物理基础](https://pan.baidu.com/s/1teciqfkUsoNjaRD9ELlbwA) 提取码：janr
-4) [材料分析方法](https://pan.baidu.com/s/1fzVkKIZFqpd7tgPAWR3pvA) 提取码：l7e8
-5) [材料物理性能](https://pan.baidu.com/s/1TZgrfFWSIjUAl8u0TM7ZeQ) 提取码：omwq
-6) [材料制备与加工](https://pan.baidu.com/s/1_8UAFcRNzMtd4mhLEZPUrQ) 提取码：gdof
-7) [材科基实验I](https://pan.baidu.com/s/1UlexJiZ0syv3ZUe8dDN0_Q) 提取码：bq0m
-8) [材科基实验II](https://pan.baidu.com/s/1lWWqk44CDJLaDCSaXn_hjQ) 提取码：h14j
-9) [物理化学实验](https://pan.baidu.com/s/1uXIM14Q04hhBzNb2Jn9Dzw) 提取码：pbw5
-10) [电工技术实验](https://pan.baidu.com/s/1IXQsLFSoFIxpJe8DVMYm4g) 提取码：jju1
-11) [电子技术实验](https://pan.baidu.com/s/1ekz9NNg7XOYW8H327H2IuQ) 提取码：s2h7
-12) [毛概I](https://pan.baidu.com/s/1n80qf28PH-QYZrxNeRmoEw) 提取码：18mp
-13) [毛概II](https://pan.baidu.com/s/1b7TlGcuu-l9smdE-TJtWmw) 提取码：bhgf
-14) [电子技术](https://pan.baidu.com/s/1peg9wt3gHO7pYyBnBsH93w) 提取码：2qu3
-15) [经济与管理](https://pan.baidu.com/s/1h7rEVA4oiY2OjJn_6J_RPw) 提取码：fl3k
-16) [专业英语I](https://pan.baidu.com/s/1iAyBpB3LdO9D83fvIUkD-g) 提取码：jczu
-17) [专业英语II](https://pan.baidu.com/s/1q7Q2gzDcfmRgDGJNlL-CGw) 提取码：wdmu
-18) [电化学基础（专选）](https://pan.baidu.com/s/1GU2fdmZL9_FoTTl_m9jxCQ) 提取码：mk49
-19) [高分子材料（专选）](https://pan.baidu.com/s/1r6P1G2TedUhGTu5DovF0dg) 提取码：ujrc
-20) [计算材料学与材料模拟技术（专选）](https://pan.baidu.com/s/1ye3cOYWJnEwMFdEX6pPGKw) 提取码：tsis
+1. [材料科学基础I](https://pan.baidu.com/s/1Sn6a--0zWX6w8Mvr1XJidg) 提取码：mhee
+2. [材料科学基础II](https://pan.baidu.com/s/1WItL7Lw1J2tu31Y0pyvoOA) 提取码：bqv0
+3. [固体物理基础](https://pan.baidu.com/s/1teciqfkUsoNjaRD9ELlbwA) 提取码：janr
+4. [材料分析方法](https://pan.baidu.com/s/1fzVkKIZFqpd7tgPAWR3pvA) 提取码：l7e8
+5. [材料物理性能](https://pan.baidu.com/s/1TZgrfFWSIjUAl8u0TM7ZeQ) 提取码：omwq
+6. [材料制备与加工](https://pan.baidu.com/s/1_8UAFcRNzMtd4mhLEZPUrQ) 提取码：gdof
+7. [材科基实验I](https://pan.baidu.com/s/1UlexJiZ0syv3ZUe8dDN0_Q) 提取码：bq0m
+8. [材科基实验II](https://pan.baidu.com/s/1lWWqk44CDJLaDCSaXn_hjQ) 提取码：h14j
+9. [物理化学实验](https://pan.baidu.com/s/1uXIM14Q04hhBzNb2Jn9Dzw) 提取码：pbw5
+10. [电工技术实验](https://pan.baidu.com/s/1IXQsLFSoFIxpJe8DVMYm4g) 提取码：jju1
+11. [电子技术实验](https://pan.baidu.com/s/1ekz9NNg7XOYW8H327H2IuQ) 提取码：s2h7
+12. [毛概I](https://pan.baidu.com/s/1n80qf28PH-QYZrxNeRmoEw) 提取码：18mp
+13. [毛概II](https://pan.baidu.com/s/1b7TlGcuu-l9smdE-TJtWmw) 提取码：bhgf
+14. [电子技术](https://pan.baidu.com/s/1peg9wt3gHO7pYyBnBsH93w) 提取码：2qu3
+15. [经济与管理](https://pan.baidu.com/s/1h7rEVA4oiY2OjJn_6J_RPw) 提取码：fl3k
+16. [专业英语I](https://pan.baidu.com/s/1iAyBpB3LdO9D83fvIUkD-g) 提取码：jczu
+17. [专业英语II](https://pan.baidu.com/s/1q7Q2gzDcfmRgDGJNlL-CGw) 提取码：wdmu
+18. [电化学基础（专选）](https://pan.baidu.com/s/1GU2fdmZL9_FoTTl_m9jxCQ) 提取码：mk49
+19. [高分子材料（专选）](https://pan.baidu.com/s/1r6P1G2TedUhGTu5DovF0dg) 提取码：ujrc
+20. [计算材料学与材料模拟技术（专选）](https://pan.baidu.com/s/1ye3cOYWJnEwMFdEX6pPGKw) 提取码：tsis
 
 ---
 
 ## 大四上
 
-1) [材料力学性能/行为](https://pan.baidu.com/s/162BvhBOICtGL1ixgom1XBw) 提取码：sctk
-2) [金属材料学](https://pan.baidu.com/s/1-pA3x-Tjs66i-HqCZ8TzeQ) 提取码：b7xx
+1. [材料力学性能/行为](https://pan.baidu.com/s/162BvhBOICtGL1ixgom1XBw) 提取码：sctk
+2. [金属材料学](https://pan.baidu.com/s/1-pA3x-Tjs66i-HqCZ8TzeQ) 提取码：b7xx
 
 ---
 
@@ -340,7 +340,7 @@
 
 **李静媛老师教，主要讲理论内容。公式多，计算多，后面的章节难，且没有什么复习资料，做好心理准备**。其实从一而终的认真听，其实还好的。而我今年的线上学习效果不太好，大三下学期的专业课课程学的也不是很精，暂时提供不了好的学习建议。可以问其他优秀的学长学姐。
 
----
+
 ---
 
 ## 部分课程试题回忆
@@ -349,21 +349,21 @@
 
 ### 17 级《材料力学性能》试题回忆版
 
-1) 画出退火态低碳钢的应力 - 应变曲线，写出各阶段的名称、特点和微观机制。
-2) 第一次实验课需要计算的四个强度和塑性指标。
-3) 弹性模量的物理意义，金属、陶瓷和高分子弹性模量高低比较，高分子弹性模量低的原因；滞弹性现象定义；三种表现形式及简单解释。
-4) $K_I$ 的计算，与 $K_{IC}$ 比较，看是否能安全服役；画出断裂韧性随厚度的关系曲线，并解释原因。
-5) 画出低碳钢韧脆转变曲线和标出特征参数；第二次实验：T10 钢在实验温度范围韧脆性质的评定，及指出部分同学绘图中错误（脆性面积变化不大，坐标起点不为零，看似有变化）。
-6) 哪些属于钉扎强化？写出其中两个的强化机理和强化效果影响因素。
-7) 画出蠕变曲线并解释各个阶段的成因，并指出其微观机制；写出提高蠕变抗力的基本方法。
-8) 金属疲劳现象定义，提高金属疲劳抗力的方法；应力腐蚀断裂和疲劳腐蚀断裂的基本特点。
+1. 画出退火态低碳钢的应力 - 应变曲线，写出各阶段的名称、特点和微观机制。
+2. 第一次实验课需要计算的四个强度和塑性指标。
+3. 弹性模量的物理意义，金属、陶瓷和高分子弹性模量高低比较，高分子弹性模量低的原因；滞弹性现象定义；三种表现形式及简单解释。
+4. $K_I$ 的计算，与 $K_{IC}$ 比较，看是否能安全服役；画出断裂韧性随厚度的关系曲线，并解释原因。
+5. 画出低碳钢韧脆转变曲线和标出特征参数；第二次实验：T10 钢在实验温度范围韧脆性质的评定，及指出部分同学绘图中错误（脆性面积变化不大，坐标起点不为零，看似有变化）。
+6. 哪些属于钉扎强化？写出其中两个的强化机理和强化效果影响因素。
+7. 画出蠕变曲线并解释各个阶段的成因，并指出其微观机制；写出提高蠕变抗力的基本方法。
+8. 金属疲劳现象定义，提高金属疲劳抗力的方法；应力腐蚀断裂和疲劳腐蚀断裂的基本特点。
 
 ---
 
 ### 17 级《金属材料学》试题回忆版
 
-1) 名词解释：应力腐蚀 残余奥氏体 TTT 曲线 本质细晶粒钢 调质钢。
-2) 三种冷速在 C 曲线上，在室温分别获得哪些组织。
-3) 第一次实验：40NiCr 和 45 钢油淬分别得到什么组织，解释原因；45 钢得到等轴状铁素体 + 颗粒状渗碳体的热处理工艺，工艺曲线在 C 曲线上该怎么画；40NiCr 和 45 钢和 T8 钢的名义碳含量，硬度的比较。
-4) 马氏体的金相组织形态；上贝氏体和下贝氏体的金相组织形态；屈氏体和回火屈氏体的金相组织形态，两者的区别。
-5) 40CrNi、GCr15、W18Cr4V、1Cr18Ni9Ti 分别属于哪类钢，合金元素的主要作用；写出 GCr15 的预热处理和最终热处理名称及作用。
+1. 名词解释：应力腐蚀 残余奥氏体 TTT 曲线 本质细晶粒钢 调质钢。
+2. 三种冷速在 C 曲线上，在室温分别获得哪些组织。
+3. 第一次实验：40NiCr 和 45 钢油淬分别得到什么组织，解释原因；45 钢得到等轴状铁素体 + 颗粒状渗碳体的热处理工艺，工艺曲线在 C 曲线上该怎么画；40NiCr 和 45 钢和 T8 钢的名义碳含量，硬度的比较。
+4. 马氏体的金相组织形态；上贝氏体和下贝氏体的金相组织形态；屈氏体和回火屈氏体的金相组织形态，两者的区别。
+5. 40CrNi、GCr15、W18Cr4V、1Cr18Ni9Ti 分别属于哪类钢，合金元素的主要作用；写出 GCr15 的预热处理和最终热处理名称及作用。
