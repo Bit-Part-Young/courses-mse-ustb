@@ -1,0 +1,46 @@
+#!/bin/bash
+
+# 从 Obsidian md 文档中更新 ourses-mse-ustb 的 README.md 文档
+
+readme_fn=README.md
+repo_path="."
+readme_path=${repo_path}/${readme_fn}
+
+obsd_md_path="/mnt/d/obsidian-md"
+if [[ $HOSTNAME =~ "DESKTOP" ]]; then
+    obsd_md_path="/mnt/e/obsidian-md"
+fi
+
+obsd_readme=${obsd_md_path}/others/courses-mse-ustb.md
+
+cp ${obsd_readme} ${readme_path}
+
+
+git_update(){
+    BRANCH=$(git branch --show-current)
+    git status --short --branch
+    echo
+    git add ${readme_fn}
+    git commit -m "update ${readme_fn}"
+    echo
+    # git push origin ${BRANCH}
+}
+
+
+update_num(){
+    cd ${repo_path}
+
+    update_md_num=$(git status --short --branch | grep "${readme_fn}" | wc -l)
+
+    if [[ $update_md_num -eq 0 ]]; then
+        echo -e "\n${readme_fn} is latest."
+    else
+        echo -e "\n${readme_fn} is updated."
+        git_update
+    fi
+
+    cd - > /dev/null 2>&1 
+}
+
+
+update_num
