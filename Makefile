@@ -1,5 +1,5 @@
-BRANCH=$(shell git branch --show-current)
-
-readme: 
+readme:
 	@./update_readme
 
+mkdocs:
+	@./update_mkdocs
