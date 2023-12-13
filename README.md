@@ -1,10 +1,11 @@
 # 北京科技大学材料学院材科专业课程资料
 
-**注：**
+[![CI Status](https://github.com/Bit-Part-Young/courses-mse-ustb/actions/workflows/mkdocs-deploy.yml/badge.svg)](https://github.com/Bit-Part-Young/courses-mse-ustb/actions/workflows/mkdocs-deploy.yml)
 
-- **以下课程资料均为收集得到，版权归课程老师、总结者所有。请勿随意传播！！！**
-- **课程资料具有很强的时效性，不一定百分百有帮助。仅供参考！还是以课程教师或其他可靠渠道提供的最新资料为准。**
-- 若有链接失效或错误，请在该 repo 中提 [Issues](https://gitee.com/yangsl306/courses-mse-ustb/issues/new)。
+- 网页版：[北京科技大学材料学院材科专业课程资料](https://seekanotherland.xyz/courses-mse-ustb/)
+- **以下课程资料均为收集得到，版权归课程老师、总结者所有。请勿随意传播**！！！
+- **课程资料具有很强的时效性，不一定百分百有帮助。仅供参考！还是以课程教师或其他可靠渠道提供的最新资料为准**。
+- 若有链接失效或错误，请在该 repo 中提 [Issues - Github](https://github.com/Bit-Part-Young/courses-mse-ustb/issues/new) / [Issues - Gitee](https://gitee.com/yangsl306/courses-mse-ustb/issues/new)。
 - 课程资料不是最新，且无精力维护，欢迎有兴趣的同学 fork 该 repo，或与我联系申请加入该 repo 一起维护。
 - 建议使用 [链接助手](https://greasyfork.org/zh-CN/scripts/422773) 油猴插件，点击相应课程的百度网盘链接后，可自动填充提取码，无需手动输入。
 
@@ -339,7 +340,6 @@
 ### 材料制备与加工
 
 **李静媛老师教，主要讲理论内容。公式多，计算多，后面的章节难，且没有什么复习资料，做好心理准备**。其实从一而终的认真听，其实还好的。而我今年的线上学习效果不太好，大三下学期的专业课课程学的也不是很精，暂时提供不了好的学习建议。可以问其他优秀的学长学姐。
-
 
 ---
 
